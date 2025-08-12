@@ -6,7 +6,8 @@ table{
 th{
     height: 80px;
     background-color: rgb(53, 52, 52);
-    
+    font-size: 35px;
+    color: whitesmoke;
 }
 td{
     text-align: center;
