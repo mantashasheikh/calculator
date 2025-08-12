@@ -1,0 +1,17 @@
+table{
+    height: 700px;
+    width: 600px;
+    background-color: rgb(35, 35, 35);
+}
+th{
+    height: 80px;
+    background-color: rgb(53, 52, 52);
+    
+}
+td{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(22, 22, 22);
+    border-radius: 5px;
+}
