@@ -11,46 +11,6 @@ let cal=(value)=>{
     store=store+value  
     show.innerHTML=store
 
-    let button = document.querySelector("#d")
-    button.style.backgroundColor=" rgba(39, 38, 38, 1);
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    "
-    
 }
 let res=()=>{
     let show=document.querySelector("#display")
@@ -67,6 +27,8 @@ let ac=()=>{
     store = ""
     show.innerHTML=store
 }
+
+
 
 
 
